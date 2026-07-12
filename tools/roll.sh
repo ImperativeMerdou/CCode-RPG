@@ -7,7 +7,7 @@
 set -euo pipefail
 
 EXPR="${1:-}"; shift || true
-LABEL=""; ADV=0; DIS=0; HIDDEN=0
+LABEL=""; ADV=0; DIS=0; HIDDEN=0; DC=""
 
 while [[ $# -gt 0 ]]; do
   case "$1" in
@@ -15,6 +15,7 @@ while [[ $# -gt 0 ]]; do
     --advantage) ADV=1; shift ;;
     --disadvantage) DIS=1; shift ;;
     --hidden) HIDDEN=1; shift ;;
+    --dc) DC="${2:-}"; shift 2 ;;
     *) shift ;;
   esac
 done
@@ -61,10 +62,15 @@ if [[ $HIDDEN -eq 1 ]]; then
   exit 0
 fi
 
+OUTCOME=""
+if [[ -n "$DC" ]]; then
+  if (( TOTAL >= DC )); then OUTCOME=" vs DC $DC: SUCCESS"; else OUTCOME=" vs DC $DC: FAIL"; fi
+fi
+
 if [[ -n "$LABEL" ]]; then
-  printf '%s | %s: [%s] %s = %s\n' "$LABEL" "$EXPR" "$DETAIL" "$MOD" "$TOTAL"
+  printf '%s | %s: [%s] %s = %s%s\n' "$LABEL" "$EXPR" "$DETAIL" "$MOD" "$TOTAL" "$OUTCOME"
 else
-  printf '%s: [%s] %s = %s\n' "$EXPR" "$DETAIL" "$MOD" "$TOTAL"
+  printf '%s: [%s] %s = %s%s\n' "$EXPR" "$DETAIL" "$MOD" "$TOTAL" "$OUTCOME"
 fi
 
 if [[ "$N" -eq 1 && "$S" -eq 20 ]]; then

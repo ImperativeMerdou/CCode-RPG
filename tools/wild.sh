@@ -93,9 +93,38 @@ sea=(
   "Umberlee's price: the sea flattens for one hour and every sailor pays her in silence"
 )
 
+underdark=(
+  "duergar slave column, count of heads, count of chains, one empty collar"
+  "a drow patrol that assumes it owns him and prices accordingly"
+  "grick nest in the squeeze; the walls have mouths"
+  "the ceiling talks: a piercer colony holds its breath"
+  "a mind flayer's thrall walks past on an errand, eyes like wet stone"
+  "the tunnel exhales: warm air, egg smell, something big cycled its lungs"
+  "faerzress glow; magic runs hot and wrong here"
+  "water dripping upward, one drop at a time; the locals step around the spot"
+  "a fungal grove, edible, glowing, farmed by something with small hands"
+  "a dead adventuring company, gear intact, faces gone; the map survived"
+  "a deep gnome trader with honest prices and terrified eyes"
+  "a svirfneblin gate: a hidden town will trade if he knocks the right way"
+)
+moor=(
+  "hobgoblin war-scouts mapping the road for a column behind them"
+  "a barghest wearing yesterday's traveler"
+  "ankheg ground: the wagon ruts just stop"
+  "an ogre with a bridge and a business model"
+  "wolves that flank like men; men that howl like wolves"
+  "the High Moor wind: it takes hats, tents and nerve in that order"
+  "peat bog holds the dead upright; a field of leaning ancestors"
+  "cairn stones rearranged since the map was drawn"
+  "a dead empire's road, straight as law, going exactly where he's going"
+  "a shepherd clan pays in silver and mutton for one bad night's work"
+  "ruins with fresh rope on the descent shaft; someone's already inside"
+  "Iymrith's shadow crosses the moor a mile wide; every living thing kneels; the storm follows her north"
+)
+
 pick() { local -n arr=$1; local n=$(( (RANDOM % 12) )); echo "d12=$((n+1)): ${arr[$n]}"; }
 
 case "$REGION" in
-  coastway|cloakwood|fields|trollclaws|river|sea) pick "$REGION" ;;
-  --list|*) echo "regions: coastway cloakwood fields trollclaws river sea"; [[ "$REGION" == "--list" ]] || exit 1 ;;
+  coastway|cloakwood|fields|trollclaws|river|sea|underdark|moor) pick "$REGION" ;;
+  --list|*) echo "regions: coastway cloakwood fields trollclaws river sea underdark moor"; [[ "$REGION" == "--list" ]] || exit 1 ;;
 esac

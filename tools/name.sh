@@ -15,6 +15,11 @@ set -euo pipefail
 
 CULTURE="${1:-}"; SEX="${2:-}"; COUNT="${3:-1}"
 
+# virtue/epithet take no sex: ./name.sh epithet 3 means count=3
+if [[ "$CULTURE" == "virtue" || "$CULTURE" == "epithet" ]] && [[ "$SEX" =~ ^[0-9]+$ ]]; then
+  COUNT="$SEX"; SEX=""
+fi
+
 # Human ethnic banks (PHB). Real-world roots keep them believable:
 # chondathan=Old English, illuskan=Norse, calishite=Arabic,
 # damaran=Slavic, rashemi=steppe, turami=Mediterranean.

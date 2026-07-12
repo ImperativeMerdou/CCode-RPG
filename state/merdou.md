@@ -2,9 +2,10 @@
 
 **Tiefling** | 27 | 6'7" — a head taller than most doors expect
 **Level** 1
-**HP** 13 / 13 | **AC** 10 (no armor)
+**HP** 13 / 13 | **AC** 10 (no armor) | **Fire** 0/3
 **Coin** 6 copper
 **Location** Baldur's Gate, Lower City
+**Tongues** Common, Infernal. He cannot read Draconic. The mark on his back is written in it.
 
 ## The Look
 Two white bone horns, thick, swept like a bull's. Bald, shaved to the skin. Short dark beard, kept sharp. Brown eyes, calm, older than 27. Burly and wide, slab muscle with a small belly over it, hairy chest and arms. A body built by work and fights, not a gymnasium. People step off the pavement first and wonder why after.
@@ -43,6 +44,10 @@ Dying unknown. Dying with no blood behind him: no wife, no children, no house ca
 
 ## Conditions
 - none
+
+## Scars
+*(permanent. Each one is a story the body tells for free.)*
+- none yet
 
 ## Marks
 - One Draconic Prophecy mark. Location unknown to him. Meaning unknown to him.

@@ -36,6 +36,16 @@ roll_twist() { echo "TWIST: ${twists[$((RANDOM % ${#twists[@]}))]}"; }
 
 if [[ "$ODDS" == "twist" ]]; then roll_twist; exit 0; fi
 
+# scene oracle: does the next scene start as planned?
+if [[ "$ODDS" == "scene" ]]; then
+  R=$(( (RANDOM % 10) + 1 ))
+  if   (( R <= 6 )); then echo "scene d10=$R -> as planned"
+  elif (( R <= 8 )); then echo "scene d10=$R -> ALTERED: same scene, one element changed (who, where, mood)"
+  else                    echo "scene d10=$R -> INTERRUPT: something else happens first"; roll_twist
+  fi
+  exit 0
+fi
+
 case "$ODDS" in
   sure) T=90 ;; likely) T=75 ;; even) T=50 ;; unlikely) T=25 ;; desperate) T=10 ;;
   *) echo "usage: oracle.sh sure|likely|even|unlikely|desperate \"question\"  (or: oracle.sh twist)"; exit 1 ;;
