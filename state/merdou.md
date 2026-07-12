@@ -3,7 +3,8 @@
 **Tiefling** | 27 | 6'7" — a head taller than most doors expect
 **Level** 1 | **XP** 0
 **HP** 13 / 13 | **AC** 10 (no armor)
-**Coin** —
+**Coin** 6 copper
+**Location** Baldur's Gate, Lower City
 
 ## The Look
 Two white bone horns, thick, swept like a bull's. Bald, shaved to the skin. Short dark beard, kept sharp. Brown eyes, calm, older than 27. Burly and wide, slab muscle with a small belly over it, hairy chest and arms. A body built by work and fights, not a gymnasium. People step off the pavement first and wonder why after.
@@ -23,11 +24,18 @@ STR 16 | DEX 10 | CON 16 | INT 14 | WIS 9 | CHA 12
 ## The Want
 To be known, then to be worshipped. Merdou means to climb past man, past dragon, into godhood: a dragon god of war. The Realms already has dragon gods. It does not have his. Ruthless ambition. Strength above all. He wants it all, and "all" is not a figure of speech.
 
+## The Man
+Meticulous. Plans like a clerk, kills like a fire. Ruthless by policy, explosive by nature; the anger is always lit, the question is only what it costs him today. Passion in everything: rage, appetite, ambition, women. Women only. He holds most other races in quiet contempt, and women in open contempt, which is the kind of flaw the world charges interest on. He does not know that yet.
+
+## The Line
+Two things break the leash: **his blood** and **his word**. Any family he builds is off the board; touch it and Baldur's Gate learns what a war god's whelp does. And if he gives his word, it holds. Forcing him to break it is a death sentence he delivers personally.
+
 ## The Fear
 Dying unknown. Dying with no blood behind him: no wife, no children, no house carrying the name. Dying slow and filthy of disease, the death that strength cannot fight. He means to sire children, plural, a dynasty. And under all of it: never owned, never weak. He would rather die badly than kneel long.
 
 ## Gear
--
+- Rough wool trousers, dock boots, a patched coat too small in the shoulders
+- No weapon
 
 ## Conditions
 - none
