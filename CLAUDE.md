@@ -126,4 +126,4 @@ Then open on violence. Not a tavern.
 
 ## HOUSE RULES
 
-*(filled during Session Zero)*
+**Tone:** Epic, the whole package. Warriors and stakes. Consequences that stick. Legacy, name, greatness, reputation. Friendship and romance carry real weight. Play it big. Creative over safe.
