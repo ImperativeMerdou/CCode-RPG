@@ -32,7 +32,31 @@ twists=(
   "the thing he wanted is already gone, taken minutes ago"
 )
 
-roll_twist() { echo "TWIST: ${twists[$((RANDOM % ${#twists[@]}))]}"; }
+twists_wild=(
+  "the weather turns killer inside an hour"
+  "tracks cross his: fresher than his, bigger than his"
+  "something has been following since the last camp; it stops hiding"
+  "the path is gone: washout, rockfall, or taken"
+  "a stranger at the fire, hands empty, story ready"
+  "wounded thing in the brush: helping costs, ignoring costs different"
+  "the mark stirs: something old passed over this ground once"
+  "cache or corpse: previous travelers left both"
+  "a sound the land shouldn't make; the animals agree"
+  "his supplies are wrong: spoiled, short, or moved"
+  "smoke on the horizon where the map says nothing lives"
+  "the shortcut exists and it is absolutely a bargain with something"
+)
+
+roll_twist() {
+  if [[ "${WILD:-0}" -eq 1 ]]; then
+    echo "TWIST(wild): ${twists_wild[$((RANDOM % ${#twists_wild[@]}))]}"
+  else
+    echo "TWIST: ${twists[$((RANDOM % ${#twists[@]}))]}"
+  fi
+}
+
+# --wild anywhere in args: use the wilderness twist bank
+WILD=0; for a in "$@"; do [[ "$a" == "--wild" ]] && WILD=1; done
 
 if [[ "$ODDS" == "twist" ]]; then roll_twist; exit 0; fi
 
