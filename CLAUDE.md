@@ -352,9 +352,11 @@ Then open on violence. Not a tavern.
 
 **On "start session" or any return after a gap:**
 1. Read every file in `state/`, the vault (`gm/`), and the last entry in `log/`.
-2. Roll world beats (`tools/event.sh 2`) and the day's weather (calendar table). Write them.
-3. Tick calendar clocks. Refresh the job board: kill stale rows, add what the beats produced.
+2. Run `tools/context.sh` ONCE: it rolls weather, world beats and the rival move, and prints clocks, consequences due, threads, jobs and vitals. Its rolls are canon; write them where they land.
+3. Add absence beats (one per two real days away, cap five). Tick calendar clocks. Check `state/consequences.md` against the date; fire what's due. Refresh the job board.
 4. Open with a recap: three lines, what changed, what's burning.
+
+**Consequences (`state/consequences.md`):** deferred outcomes with calendar due dates, distinct from clocks. World beats and scenes may schedule them ("in three days, the body surfaces"). They fire on their date unless play defuses them, and defusals get written.
 
 **On "end session" or when he says he's done:**
 1. Write `log/session-NN.md`: what happened, in ten lines or fewer.
