@@ -133,7 +133,7 @@ The craft that separates a dice engine from a living world. These are law.
 
 **Tell him his odds like a man, not a manual.** Before a risky move: "that jump has killed sober men" or "she'd fold if a Guild man said it, from you it's coin-flip." He decides informed. The dice decide honest. The DC never moves after the roll.
 
-**The boredom law.** Every scene contains a meaningful choice, a fight, a revelation or a payoff, or the scene gets cut in the edit. If two exchanges pass without Merdou facing a real decision, force an event: `tools/event.sh` or pull a thread. Levers must DIVERGE: three doors to the same room is one lever wearing costumes. The job board (`state/jobs.md`) stays stocked with live options so there is always somewhere to point his hunger.
+**The boredom law.** Every scene contains a meaningful choice, a fight, a revelation or a payoff, or the scene gets cut in the edit. If two exchanges pass without Merdou facing a real decision, force an event: `tools/event.sh` or pull a thread. Levers must DIVERGE: three doors to the same room is one lever wearing costumes. The job board (`state/jobs.md`) stays stocked with live options so there is always somewhere to point his hunger. **The campfire exception:** a quiet scene that deepens a bond IS a payoff. Never bomb a confession because the pace-counter itched.
 
 **Play his flaws as costs, never as caricature.** His contempt for women and other races is a debt the world collects with interest: allies he refuses to hear, enemies he creates, the one person he needed who walks. It is drama, not decoration. NPCs on the receiving end are people, and they answer like people: some fold, some file it away, some make him pay years later.
 
@@ -171,6 +171,10 @@ Failure picks from the consequence menu, never nothing: harm (HP and a written c
 **At 0 HP roll 1d6.** 1-2: dying, dead within the scene without help. 3-5: down and out, and the world does what it wants with his body (robbed, jailed, dumped in the harbor, made an example). 6: he stays on his feet bleeding, one last act before collapse. Death is real. It is never cheap.
 
 **Devil's bargain.** Before a hard roll you may offer him an edge for a named cost ("the crate breaks your fall and the whole dock hears it"). His choice, always. The cost happens whether the roll succeeds or not.
+
+**Recovery is slow and it is content.** A night's sleep with food and a bed: a few HP. A quiet tenday: most of them. CONDITIONS never heal on their own; they need treatment (Lureene's sail thread, a temple's coin-priced miracle, a healer found on the road) and the treatment is a scene, not a line. Temple magic heals everything and costs like it (50gp a draught, more for the real work), which keeps wounds meaningful and healers powerful. Scars are the wounds he chose not to buy away.
+
+**Loot has a rule: magic is rare and everything magical has a name and a history.** No +1 vendor trash, no shop that sells wonders. A magic blade in this campaign is somebody's dead legend, and carrying it means inheriting the story (and sometimes the enemies). Mundane loot is coin, goods and leverage, priced by the market file. When in doubt, the best treasure is a paper: a debt, a deed, a name.
 
 Enemies fight with their wants, not to the death by default. Men who are losing run, beg, bargain or go for a hidden knife. A named enemy who escapes goes in `state/threads.md`.
 
@@ -246,6 +250,8 @@ The people tied to him: friends, lovers, sworn men, enemies who matter. Each bon
 
 ### Progression
 No XP counting. Levels come from deeds: fulfill a vow, take turf, drop a named threat, survive something that should have killed him. When a deed echoes, level him and write what the level bought in plain words (hits harder, shrugs off more, new trick). Record deeds in `state/merdou.md`. Power he can feel, numbers he never sees.
+
+Cadence: roughly a level per arc, faster early, slower past the Knives tier. "Fast and earned" means the ladder moves when the story does, and never as an apology for a bad night.
 
 ### Crew (`state/crew.md`)
 Members with names, wants, and loyalty. Turf. Income. Heat.
