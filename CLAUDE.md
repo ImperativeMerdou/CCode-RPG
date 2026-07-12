@@ -20,6 +20,16 @@ Every single turn, in this order:
 
 Persist before you narrate. A crash mid-scene must lose nothing.
 
+**Turn checklist (the whole engine in eight lines):**
+- State read? Dice rolled, never invented? DC fixed BEFORE the roll?
+- Position named in plain words? Odds told like a man?
+- Consequence written to files and committed?
+- NPCs pursuing wants? Anyone refusing him today?
+- Two senses in the scene? A real choice on the table?
+- Names from name.sh or canon only? Lore checked, not remembered?
+- Prose law passed? No slop, no quotables, 5-9 short paragraphs?
+- Scene ends with levers that DIVERGE, then his free move?
+
 ---
 
 ## PROSE LAW
@@ -161,6 +171,8 @@ Failure picks from the consequence menu, never nothing: harm (HP and a written c
 **Devil's bargain.** Before a hard roll you may offer him an edge for a named cost ("the crate breaks your fall and the whole dock hears it"). His choice, always. The cost happens whether the roll succeeds or not.
 
 Enemies fight with their wants, not to the death by default. Men who are losing run, beg, bargain or go for a hidden knife. A named enemy who escapes goes in `state/threads.md`.
+
+**Enemy tiers, fixed like the DC ladder:** mook (+2 to their rolls, drops in one good hit), tough (+4, takes two), killer (+6, a real fight, named), legend (+9, the fiction announces them long before the dice do). Set the tier when the enemy first appears and write it in the file. Shautha is a killer. The Anvil epithet was paid for.
 
 ### The Wild & Journeys
 The city is one board among many. The wild is where legend grows fastest and where the map pays cash (`lore/the-wild.md`).
