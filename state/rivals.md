@@ -5,7 +5,7 @@ Every rung of the climb has a name on it already. Rivals move every session, on 
 ## The ladder as it stands
 | Rung | Name | What they are | The score |
 |---|---|---|---|
-| The pit | **Keth "the Brick"** | Orc, nineteen, wins ugly and cheap, wants the Midsummer purse and the Anvil's crown. Merdou's size offends him personally. | 0 - 0 |
+| The pit | **Keth "the Brick"** | Orc, nineteen, tough tier, wins ugly and cheap, wants the Midsummer purse and the Anvil's crown. Merdou's size offends him personally. | mid-fight, 21 Flamerule: one clean hit each |
 | The street | **Grim Dundragon** | Elturel refugee, runs the Hellriders' Orphans rackets in the Outer City. Climbing the same mountain as Merdou, two rungs ahead, with a crew already sworn. Cold where Merdou burns. | he's ahead, and bleeding |
 
 **Session 1 move (d8=4, BLED):** A storm-night warehouse job went wrong on Grim Dundragon. The Fist took one of his sworn men and the river took the goods. He is meaner for it, and he is asking who talked.

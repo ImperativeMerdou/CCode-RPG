@@ -2,7 +2,7 @@
 
 **Tiefling** | 27 | 6'7" — a head taller than most doors expect
 **Level** 1
-**HP** 13 / 13 | **AC** 10 (no armor) | **Fire** 0/3
+**HP** 8 / 13 | **AC** 10 (no armor) | **Fire** 0/3
 **Coin** 6 copper
 **Location** Baldur's Gate, Lower City
 **Tongues** Common, Infernal. He cannot read Draconic. The mark on his back is written in it.
@@ -47,7 +47,7 @@ Observation 0 | Armament 0 | Conqueror's: untested
 - none yet
 
 ## Conditions
-- none
+- **Split brow** (Keth's headbutt, 21 Flamerule): blood keeps curtaining the left eye. Anything that needs both eyes suffers until it is stitched. Heals by treatment only.
 
 ## Scars
 *(permanent. Each one is a story the body tells for free.)*
