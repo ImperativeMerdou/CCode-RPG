@@ -15,3 +15,4 @@
 
 ## Session notes
 - **21 Flamerule:** Best gate take in two years, one table broken, one champion untouched, one giant heel the whole dock is arguing about. Counted the take three times, smiled twice. Left word with Olma: she wants the Ox back, and she is already writing his next card in her head. His mouth cost him the room and made him easy to sell as a villain, which is cheaper to buy. Stock, not yet a gamble.
+- **21 Flamerule, later:** He leaned on her in her own counting room and the strongbox rune got hot. She laughed for the first time in front of stock, gave him six of ten and cut the road to two cards. Told herself it was heel-pricing. It wasn't; the coins stopped on their own. Watch for stage 2 leaning in.
