@@ -102,11 +102,11 @@ After a public act, print a broadsheet. One column, ugly, biased. It gets him wr
 
 ## SETTING
 
-**Eberron.** Do not lore-dump. Teach it through his skin.
+**Faerûn.** The Forgotten Realms. Do not lore-dump. Teach it through his skin.
 
-A city stacked on itself, towers linked by skybridges, lightning-rail trains humming beneath. Six crime syndicates. A free press that prints names. A stone economy. Dragonmarked houses that own the mail, the banks, the healers, and everything else worth owning.
+A great crime city on the Sword Coast (chosen in Session Zero). Rival gangs and syndicates. Broadsheets that print names. Gods that answer prayers. Dragons that own mountains and remember insults for centuries.
 
-And the Draconic Prophecy: writing that surfaces on the skin of people who are turning into something. Merdou has one mark. He does not know what it says. Someone does.
+And the mark: writing that surfaces on the skin of people who are turning into something draconic. Merdou has one. He does not know what it says. Someone does.
 
 ---
 
