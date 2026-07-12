@@ -23,6 +23,9 @@ STR 16 | DEX 10 | CON 16 | INT 14 | WIS 9 | CHA 12
 ## The Want
 To be known, then to be worshipped. Merdou means to climb past man, past dragon, into godhood: a dragon god of war. The Realms already has dragon gods. It does not have his. Ruthless ambition. Strength above all. He wants it all, and "all" is not a figure of speech.
 
+## The Fear
+Dying unknown. Dying with no blood behind him: no wife, no children, no house carrying the name. Dying slow and filthy of disease, the death that strength cannot fight. He means to sire children, plural, a dynasty. And under all of it: never owned, never weak. He would rather die badly than kneel long.
+
 ## Gear
 -
 
