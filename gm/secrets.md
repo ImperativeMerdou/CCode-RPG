@@ -18,6 +18,11 @@ Io, the Ninefold Dragon, overgod of all dragonkind, died in the dawn of things. 
 - **MERCY** — a patriar's third daughter in the Upper City, seventeen, word on her wrist under a bracelet. Does not know. Her house priest suspects and has written a letter he has not yet dared send.
 - **DEBT** — the word that walked into the Gate two years ago on a refugee from Elturel and has not surfaced since. The Scriveners' best lead. It is closer to Merdou than anyone guesses.
 
+## THE DEEPEST SECRET (never state it plainly on screen)
+Prophecy-sight, real prophecy-sight, perceives the world as TEXT being written: entries, ledgers, a chronicle with a hand behind it. Zasheida describes it as "reading a book that is still wet." Dragons old enough describe nothing; they have seen the margins. The sealed prophecies, the Chronicle, the files: in fiction, these are glimpses of the same manuscript the Sentence belongs to. Io did not leave a will. Io left an unfinished DOCUMENT, and everything that has a name is written somewhere in it. Play this only in fragments, ever: a seer who says "you are beautifully written," a dragon who calls him "a paragraph that wants to be a chapter."
+
+**The full glyph (state/mark.md renders it stroke by stroke):** AZTHYR in High Draconic needs ten strokes. The tenth stroke is not part of the letterform. It is a period. The word ends when he does, or when he becomes it.
+
 ## WHO KNOWS WHAT
 - **Zasheida Pashar** (the blind calligrapher, Undercellar) can read living script by touch. She has read two Quills in her life and told no one. What she wants: to read all nine before she dies, and she is dying slowly of the same gift. The reading is what took her eyes. She has already heard rumors of a tall tiefling with bull horns.
 - **The Scriveners** (third heresy of the Cult of the Dragon) know the Sentence exists and hold three words' locations wrong and one right. Their prophet, a defrocked Candlekeep sage called **Morn Greycastle**, believes the Sentence must complete in a DRAGON, and that mortal bearers are ink to be harvested. His people skin bearers and bind the skins into a book. The book does not work. He does not know why. (It must be living skin. Walking parchment. Merdou is the format the will requires.)

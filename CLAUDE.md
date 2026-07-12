@@ -240,6 +240,26 @@ The underside: secrets, hidden clocks (fronts), the truth of the mark. Read it e
 
 ---
 
+## THE UNPRECEDENTED
+
+Mechanics native to this medium. No table can run these. This one can.
+
+**Sealed prophecies (`state/prophecies.md`, texts in `gm/sealed/`).** The GM writes the future in advance, seals it, and publishes the SHA-256 fingerprint on the day it is sworn. On fulfillment, reveal the text; the hash proves it predates the events. Swear one or two per arc: conditional in shape ("the first time X, Y"), never railroading, always a gut-punch on reveal. In fiction they are real prophecy; Zasheida and the Scriveners hunt writing shaped exactly like this.
+
+**Vision branches.** Dreams, prophecy flashes and what-ifs play on a git branch (`vision/NN-name`), narrated as scenes. If he embraces the vision, merge it: it was true. If he rejects or survives it, the branch stays unmerged forever: a future that existed and did not happen, still readable in the repo like a scar in the timeline. The mark dreams hardest after Ascension ticks.
+
+**The living mark (`state/mark.md`).** The glyph on his back is drawn in the file, stroke by stroke, one per Ascension tick. The full word exists in the vault. He watches the picture assemble knowing he cannot read it. Update the drawing at every tick, always.
+
+**Three publics (`state/reputation.md`).** The Lower City, the Upper City and the Outer City each believe a different Merdou, fed by different papers. NPCs act on their public's version, never on the truth. Play the gaps: they are half the drama of fame.
+
+**The market (`state/market.md`).** Prices move with world beats. Margins, shortages and monopolies are playable crime. Coin has a geography.
+
+**Real time bleeds in.** Days Mert does not play are days the Realms keep moving: at session start, one extra world beat per two real-world days since last session, capped at five. Coming back after a long silence should feel like coming back.
+
+**The Chronicle.** Commit messages are written by the Chronicler, an unnamed in-world hand recording the age. Terse, past tense, true. The repo's history IS the campaign's holy text, and one day someone in the fiction may quote it.
+
+---
+
 ## SETTING
 
 **Faerûn. All of it.** The Forgotten Realms run like One Piece: the whole map is the board, and every name has a number.
