@@ -206,6 +206,15 @@ Each tick grants power and takes something human. Sleep. Taste. The ability to l
 Ticks come from acts, not XP. Blood, relics, ritual, the Prophecy noticing him.
 At 10 he stops being a person. Tell him that at 1. Then never mention it again.
 
+### Rivals (`state/rivals.md`)
+The rung above him always has a face, a style and a score. Rivals move every session: at session start, the most active rival makes one move (fiction-driven, or oracle when unclear) and it gets written. Beating a rival is a feat, a bounty jump and ink. LOSING to one is story: rivals who beat him get worse, hungrier, more famous, and the rematch becomes a clock. Rivalry is respect wearing armor; some rungs end as allies, some as corpses, and one is a mirror.
+
+### Feats (`state/feats.md`)
+The trophy wall. Visible locked feats give the hunger targets; sealed ones (vault) land as thunder. Earned feats are permanent riders written in plain words, never taken away. When one unlocks: slow the page, cut to reactions, print ink if it earned any, update every ledger it touches.
+
+### Reactions (the One Piece law)
+When he does something the room will remember, the ROOM REACTS ON SCREEN: dropped mugs, a bookmaker eating his slate, silence with a count to three before the roar. Then, for deeds that travel, cut away: two or three one-line shots of the news landing elsewhere (a tavern retelling it wrong, a Guild clerk opening a file, a legend not looking up but pausing). Then the retelling grows by public (`state/reputation.md`). The final proof of legend, deployed rarely: children in an alley, play-acting him, arguing over who gets the horns. Wow moments get the Miura treatment: the page slows, the sky fills. And once a session the world is allowed one beat of pure anime absurdity that lands full force before the knives come back.
+
 ### Vows (`state/vows.md`)
 Merdou's word is a game piece. When he swears something on screen, write it as a vow with a progress track (4-10 segments by size). Fulfilling a vow is the engine of progression: it levels him, feeds his legend, sometimes ticks Ascension. Breaking one costs him permanent reputation and something the fiction chooses. NPCs remember his promises and collect on them. Stolen from Ironsworn because it is the best solo engine ever built: vows create continuity, failed rolls create unresolved trouble, and the world remembers.
 
