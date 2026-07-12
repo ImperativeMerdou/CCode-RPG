@@ -1,7 +1,7 @@
 # WORLD
 
 ## Now
-**Date:** 20 Flamerule, 1492 DR (high summer)
+**Date:** 20 Flamerule, 1495 DR (high summer, three years after the Absolute crisis)
 **Weather:** A hot day broke into a night storm. Rain sideways off the harbor.
 **Where the light falls:** Baldur's Gate, Lower City, past midnight.
 

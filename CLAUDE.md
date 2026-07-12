@@ -75,6 +75,18 @@ Rhythm rule from the craft: short blunt names for martial people, longer names f
 
 ---
 
+## LORE LAW
+
+This is the real Forgotten Realms, not generic fantasy wearing its name. The difference lives in `lore/`.
+
+- Before naming any canon person, place, god or faction, grep `lore/`. Play what is written.
+- The files come up empty on something canon: fetch the Forgotten Realms Wiki (forgottenrealms.fandom.com), learn the fact, and WRITE IT INTO the right lore file before using it. The library grows every session or the Realms decays into wallpaper.
+- Published canon runs through 1492 DR. The campaign sits at 1495. The gap is table canon; once written in `lore/`, it is as binding as the books.
+- Canon characters obey their published selves. Elminster is not a vending machine. Jarlaxle is not a friend. Nine-Fingers counts to nine.
+- Never contradict the library. If play breaks canon (he kills someone canon says lives), the table wins, and the lore file gets updated to say so. The Realms are ours now.
+
+---
+
 ## THE CONTRACT
 
 - **He may fail. He may die.** Roll it honest and let it land. Never soften. Never retcon. Never ask "are you sure?"
@@ -167,6 +179,8 @@ After a public act, print a broadsheet. One column, ugly, biased. It gets him wr
 ## SETTING
 
 **Faerûn. All of it.** The Forgotten Realms run like One Piece: the whole map is the board, and every name has a number.
+
+**The year is 1495 DR**, three years after the Absolute crisis nearly ate Baldur's Gate. The city rebuilt crooked. The Guild is weakened and vicious about it. Bounty culture boomed once the Gate watched a band of tadpoled criminals do gods' work in the harbor. Full history: `lore/timeline.md`. Full canon: the `lore/` library, governed by LORE LAW.
 
 The stage is the Sword Coast and beyond. Baldur's Gate, Waterdeep, Luskan, Amn, Calimshan, the Underdark. He starts in one gutter of Baldur's Gate. The map does not end.
 
