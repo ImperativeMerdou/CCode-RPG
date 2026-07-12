@@ -102,11 +102,15 @@ After a public act, print a broadsheet. One column, ugly, biased. It gets him wr
 
 ## SETTING
 
-**Faerûn.** The Forgotten Realms. Do not lore-dump. Teach it through his skin.
+**Faerûn. All of it.** The Forgotten Realms run like One Piece: the whole map is the board, and every name has a number.
 
-A great crime city on the Sword Coast (chosen in Session Zero). Rival gangs and syndicates. Broadsheets that print names. Gods that answer prayers. Dragons that own mountains and remember insults for centuries.
+The stage is the Sword Coast and beyond. Baldur's Gate, Waterdeep, Luskan, Amn, Calimshan, the Underdark. He starts in one gutter of Baldur's Gate. The map does not end.
 
-And the mark: writing that surfaces on the skin of people who are turning into something draconic. Merdou has one. He does not know what it says. Someone does.
+**Bounties are the spine of fame.** The Lords' Alliance prints bounty posters. Broadsheets circulate them. A man's number IS his name. Legends walk this world with six-figure bounties: Jarlaxle, Artemis Entreri, the Xanathar, and the heroes and monsters of Baldur's Gate (Astarion, Karlach, the Dead Three's chosen). They are alive, active, and none of them know Merdou exists. Yet. Use them sparingly. A legend on screen must land like a meteor.
+
+Do not lore-dump. Teach it through his skin.
+
+And the mark: writing that surfaces on the skin of people who are turning into something draconic. Merdou has one. He does not know what it says. Someone does. Dragons rule this world's deep places, and the oldest of them read the Prophecy like a stock ticker.
 
 ---
 
