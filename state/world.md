@@ -10,6 +10,12 @@
 | The Harpers | The whole coast | Tyrants dead, secrets kept | Unaware |
 | The Flaming Fist | Baldur's Gate streets | Order, bribes, both | Unaware |
 
+## People
+| Name | Who | Want | One detail | Last seen |
+|---|---|---|---|---|
+| Cutter Vess | Runs a fight pit under a fish warehouse, Stormshore St, Lower City | Find a fighter worth backing before the Guild taxes her out | Counts coins across her knuckles while she talks | The pit, tonight |
+| The Anvil (Bruta) | Half-orc pit champion, dockhand by day | Buy out her indenture papers from a Guild lender | Tar-rope knuckle wraps, four heads tonight (dangerous: measure 24) | The pit, tonight |
+
 ## Named threats
 *(people who want him dead, and why)*
 
