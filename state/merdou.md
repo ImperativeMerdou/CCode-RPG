@@ -2,7 +2,8 @@
 
 **Tiefling** | 27 | 6'7" — a head taller than most doors expect
 **Level** 1
-**HP** 8 / 13 | **AC** 10 (no armor) | **Fire** 0/3
+**HP** 3 / 13 | **AC** 10 (no armor) | **Fire** 1/3
+*(Fire earned 21 Flamerule: the contempt came out of his mouth mid-fight, the crowd's love died, and the Anvil went cold and put him one hit from the dark)*
 **Coin** 6 copper
 **Location** Baldur's Gate, Lower City
 **Tongues** Common, Infernal. He cannot read Draconic. The mark on his back is written in it.
