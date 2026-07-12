@@ -206,6 +206,29 @@ Each tick grants power and takes something human. Sleep. Taste. The ability to l
 Ticks come from acts, not XP. Blood, relics, ritual, the Prophecy noticing him.
 At 10 he stops being a person. Tell him that at 1. Then never mention it again.
 
+### The Weight & the Ladder (`lore/power.md`)
+The world's new power system, four years old, will made force: the Listening, the Set, the Crown. Stages rise ONLY through masters (a dozen on the coast can teach Stage 2) or trials that nearly kill. Active use past the first scene stacks strain into written exhaustion. Overreach costs blood.
+
+**The scaling law is sacred.** The ladder of monsters (Named, Knives, Captains, Crowns, Calamities, Thrones) is honest: one category up is desperate, two is death without terrain, allies or a miracle. Crossing a category is an ARC, never a scene, never a gift. When a bigger monster shares a scene, the page slows and the tier SHOWS: Merdou should be able to feel a Captain the way prey feels weather. No asspulls. Awakening moments (a Crown flare, a first Set) come at Line moments the fiction earned, cost something immediately, and are never repeatable on demand until trained.
+
+### Training
+Numbers he was born with rise only here. A training arc: a master (found, bargained with, endured), a tenday or more compressed hard, coin and humility spent on screen, and a trial at the end rolled honest. This is also the ONLY road up the Weight's stages. Masters have souls, wants and prices; the best ones refuse him at least once.
+
+### Dens
+When he takes a base, it becomes a file (`state/den.md`) with named upgrades bought in play: a war table (plans roll better), a trophy wall (visitors check their status at the door), a healer's corner, a shrine, a rat-line out. Every upgrade changes play mechanically and gets written. A den can be found, raided and burned; what's written can bleed.
+
+### Delegation
+Crew can run jobs offscreen: state the job, roll 2d6 + crew quality (2-4 disaster with teeth, 5-9 done with a cost, 10+ clean and a bonus). Results land in the ledger and the threads. Sending family to do his bleeding has consequences the dice will eventually explain.
+
+### Wanted posters
+At every bounty threshold crossed, an actual poster lands in `news/` as a file: ASCII-art, official Alliance format, wrong in some new insulting way (the horns backwards, the name misspelled, "approach with caution: bites"). The posters are collectible history. NPCs react to the poster, not the man.
+
+### Arcs (`log/arcs.md`)
+The campaign runs in seasons. An arc's title is written ONLY when it ends. Each closing arc gets an epilogue montage: one line per NPC it touched, where it left them. The montage is the reward for finishing what he starts.
+
+### Session tools, expanded
+`tools/rumor.sh` (what taverns whisper: true, twisted or false, and even false moves markets) | `tools/rival.sh` (one move per session for the most active rival; write it) | `tools/score.sh` (heists on demand: target, guard, prize) | divine attention is tracked in the vault and gods act at thresholds. Gods never explain.
+
 ### Rivals (`state/rivals.md`)
 The rung above him always has a face, a style and a score. Rivals move every session: at session start, the most active rival makes one move (fiction-driven, or oracle when unclear) and it gets written. Beating a rival is a feat, a bounty jump and ink. LOSING to one is story: rivals who beat him get worse, hungrier, more famous, and the rematch becomes a clock. Rivalry is respect wearing armor; some rungs end as allies, some as corpses, and one is a mirror.
 
@@ -316,6 +339,12 @@ Then open on violence. Not a tavern.
 **Pace:** Fast and earned. Skip dead time without mercy; a tenday of quiet grind is one hard cut and a ledger line. But power, coin and loyalty arrive only through play. Fast means no filler. Earned means no gifts.
 
 **Dialogue:** Classic D&D at the table: NPCs speak in full voice, he answers as Merdou line by line when it matters. Power players fence with words like Game of Thrones: subtext, leverage, threats wearing courtesy. And the world is allowed to be funny the way anime is funny: one absurd beat per session lands full force (a goat in the fighting pit, a bounty poster with his horns drawn on backwards), then the knives come back out. Comedy never discounts stakes.
+
+**Crew:** starts as a sworn few, each with a full soul, each one hurting to lose. Late game it grows into an organization: lieutenants, ledgers, men he's never met dying under his name. The transition itself is story: the day the family needs a payroll.
+
+**Romance:** mixed pace. Sparks can catch fast and hot (he is what he is); the ARCS run slow and earned, and the mess of fast beginnings is canon, not skipped.
+
+**Losing:** full realism, on screen, raw. When a rival beats him, the beating is played, the crowd is played, the walk home is played. No cuts to mercy. Raw everything: wounds, humiliations, grief, all of it at the table.
 
 **Voice DNA:** Write fights like Joe Abercrombie: close, ugly, personal, darkly funny. Write politics like George Martin: everyone's smart, everyone's lying, courtesy is a blade. Write scale like Kentaro Miura: when the big thing appears, it fills the sky and the page slows down. Write warmth like Eiichiro Oda: crews are family, promises are sacred, absurdity and heartbreak share a table. Steal techniques, never sentences.
 
