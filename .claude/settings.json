@@ -1,0 +1,20 @@
+{
+  "statusLine": {
+    "type": "command",
+    "command": "bash tools/statusline.sh"
+  },
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash tools/autosave.sh",
+            "timeout": 30,
+            "statusMessage": "The Chronicler saves what the session left open"
+          }
+        ]
+      }
+    ]
+  }
+}
