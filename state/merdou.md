@@ -38,9 +38,9 @@ Dying unknown. Dying with no blood behind him: no wife, no children, no house ca
 - Rough wool trousers, dock boots, a patched coat too small in the shoulders
 - No weapon
 
-## The Weight
+## Haki
 *(see lore/power.md. Stages rise through masters and trials only.)*
-Listening 0 | Set 0 | Crown: untested
+Observation 0 | Armament 0 | Conqueror's: untested
 
 ## Deeds
 *(levels come from these, never from counting kills)*
