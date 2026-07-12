@@ -14,7 +14,7 @@ Deeds with names. Each earned feat is permanent: it pays a rider (a lasting edge
 | Fifty Suns | Take the Midsummer tournament purse | The purse, and every pit boss on the coast knows | LOCKED |
 | Papers | Free someone from an indenture | A loyalty no coin buys | LOCKED |
 | The Reader | Learn what the mark on your back says | (the rider is the knowing) | LOCKED |
-| First Rung | Settle the score with Keth the Brick | The pit rung clears; the street rung faces you | LOCKED |
+| First Rung | Settle the score with Keth the Brick | The pit rung clears; the street rung faces you | **EARNED, 21 Flamerule.** Suplexed him cold through the tout's trestle, first pit night, whole cellar watching |
 | Crew | Three sworn names under you | The crew file opens for real | LOCKED |
 | ??? | (vault) | (vault) | SEALED |
 | ??? | (vault) | (vault) | SEALED |

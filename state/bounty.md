@@ -1,6 +1,7 @@
 # BOUNTY
 
-**Merdou** — 0
+**Merdou** — 20
+*(21 Flamerule: brawl won, spectacular, ~100 witnesses at Bilgewater's pit: +20)*
 
 Rises only when the world WITNESSES him. Quiet work adds nothing.
 
@@ -19,7 +20,7 @@ Rises only when the world WITNESSES him. Quiet work adds nothing.
 | Karlach Cliffgate | 200,000 | Escaped one of the Nine Hells with an infernal engine for a heart. Posted by Zariel's agents. |
 | Nine-Fingers Keene | 180,000 | Runs the Guild. Every crime in Baldur's Gate pays her rent. |
 | Astarion Ancunín | 90,000 | Vampire. Two hundred years of noble blood on his hands. |
-| **Merdou** | **0** | Nothing. Nobody. Not yet. |
+| **Merdou** | **20** | The big tiefling who threw the Brick over his head at Bilgewater's. |
 
 ## Standing Marks (monsters and outlaws, proof of kill at any chartered gate)
 | Mark | Pays | Posted by | Proof |

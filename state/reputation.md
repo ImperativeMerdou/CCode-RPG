@@ -4,7 +4,7 @@ The bounty is one number. Belief is not. Each public holds its own picture of hi
 
 | Public | Paper that feeds it | What they believe about Merdou now |
 |---|---|---|
-| Lower City (docks, pits, taverns) | **The Baldur's Mouth** (gutter, lurid, first to print) | Nothing yet. A big tiefling was seen at Bilgewater's pit. |
+| Lower City (docks, pits, taverns) | **The Baldur's Mouth** (gutter, lurid, first to print) | A giant tiefling nobody knows walked into Bilgewater's and threw the Brick over his head like a grain sack. The retelling grows by the hour; no name attached yet. |
 | Upper City (patriars, the Watch) | **The Parliament Ledger** (dry, patriar-owned, prints what money wants) | Does not know he exists. |
 | Outer City (refugees, stockyards, the walls' shadow) | **word of mouth** (no paper; slower, truer, then wilder) | Nothing yet. |
 

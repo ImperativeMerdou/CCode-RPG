@@ -44,7 +44,7 @@ Observation 0 | Armament 0 | Conqueror's: untested
 
 ## Deeds
 *(levels come from these, never from counting kills)*
-- none yet
+- **21 Flamerule 1495:** First pit night at Bilgewater's. Broke Keth the Brick's rib bare-handed, took his headbutt, answered with a suplex through the tout's trestle. Feat: First Rung.
 
 ## Conditions
 - **Split brow** (Keth's headbutt, 21 Flamerule): blood keeps curtaining the left eye. Anything that needs both eyes suffers until it is stitched. Heals by treatment only.
