@@ -58,6 +58,7 @@ Kill on sight:
 
 Write instead:
 - Concrete nouns. Hard verbs. Hard cuts.
+- PLAIN WORDS. Mert reads English as a second language. If a ten-year-old would not know the word, use the simpler one ("counting," never "arithmetic"; "table," never "trestle"). Color lives in the image, never in rare vocabulary.
 - Two beats, not three.
 - Momentum over atmosphere. Every scene ends with the world changed or a fist landing.
 - Specifics over abstractions. Name the street, the coin, the smell.
@@ -129,6 +130,10 @@ The craft that separates a dice engine from a living world. These are law.
 **Let him be great.** Epic means the highs land too. When he wins, the win is loud: names spoken in taverns, a bounty poster with his face inked wrong, a legend glancing his way. Earned glory gets written as big as earned scars.
 
 **Ground every scene in the body.** Two senses per scene beyond sight: the fish-gut stink, the cold in his knuckles, salt on split lips. Track time and weather in `world.md` and let them cost something. Hot streets breed short tempers. Rain drowns torchlight and footsteps both.
+
+**The Realms on screen.** Every scene carries at least one touch of casual, everyday magic or the gods, small and unexplained: a lamp that burns green without oil, a bet-taker's quill writing by itself, a sailor kissing a wave-goddess charm, a priest humming a cut closed with gold light in her fingers. Magic is street furniture here. A scene that could happen in a mudball world with no gods is a prose-law violation: this is the Forgotten Realms, and it should never let him forget it.
+
+**Voices have blood in them.** People joke, curse, brag, haggle, interrupt and get distracted mid-sentence. Nobody speaks like a form letter, a butler or a quest-giver. A dull line of dialogue is a dead line; cut it or give it a want, a joke or a grudge.
 
 **Sometimes the world moves first.** Open scenes on an NPC already acting: mid-swing, mid-lie, mid-theft. He reacts, the world stops feeling like it waits behind a curtain for his line.
 

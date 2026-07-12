@@ -47,7 +47,7 @@ Observation 0 | Armament 0 | Conqueror's: untested
 - **21 Flamerule 1495:** First pit night at Bilgewater's. Broke Keth the Brick's rib bare-handed, took his headbutt, answered with a suplex through the tout's trestle. Feat: First Rung.
 
 ## Conditions
-- **Split brow** (Keth's headbutt, 21 Flamerule): blood keeps curtaining the left eye. Anything that needs both eyes suffers until it is stitched. Heals by treatment only.
+- **Split brow** (Keth's headbutt, 21 Flamerule): pressed shut for the bout with Olma's temple resin; holds unless it gets hit again. Needs true stitching after, or it opens and scars ugly. Heals by treatment only.
 
 ## Scars
 *(permanent. Each one is a story the body tells for free.)*
