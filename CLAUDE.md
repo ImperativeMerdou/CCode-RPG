@@ -153,6 +153,15 @@ Failure picks from the consequence menu, never nothing: harm (HP and a written c
 
 Enemies fight with their wants, not to the death by default. Men who are losing run, beg, bargain or go for a hidden knife. A named enemy who escapes goes in `state/threads.md`.
 
+### The Wild & Journeys
+The city is one board among many. The wild is where legend grows fastest and where the map pays cash (`lore/the-wild.md`).
+
+A journey runs in **legs**: one leg is a day's travel or a night's camp. Each leg, roll the region's table: `tools/wild.sh coastway` (regions: coastway, cloakwood, fields, trollclaws, river, sea; new regions get tables written before travel). Play what lands. A d12 of 1-5 is danger, 6-8 the land speaks, 9-11 discovery, 12 wonder. Never skip the roll to get him somewhere faster; the road IS the game.
+
+**Monster marks.** The Board lists monsters and outlaws, not only rivals. Proof of kill (head, hide, signet) redeems at any chartered city, and gate guards count heads OUT LOUD: marks pay coin and witnesses both. Killing a mark in the wild with no witnesses pays coin only when the proof crosses a gate, and the proof is the witness.
+
+**Time debt.** A tenday on the road is a tenday of world beats at home. Roll them on return. The city does not hold its breath.
+
 ### Threads (`state/threads.md`)
 Open questions the fiction has raised: unpaid debts, unresolved lies, escaped enemies, promises NPCs made, twists not yet landed. Read it at every session start. When a scene needs a complication, pull a thread before inventing one. A thread untouched for three sessions either resolves offscreen (world beat) or dies written.
 
