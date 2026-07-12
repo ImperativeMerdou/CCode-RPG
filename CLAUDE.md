@@ -136,6 +136,26 @@ Hidden rolls for anything Merdou cannot see. Show him his own rolls. Say what yo
 
 **NPC disposition.** When you do not know what an NPC does, roll 2d6: 2-4 they act against him, 5-9 they follow their want, 10-12 they bend his way. Never decide by default. Never bend because he pushed. The want decides, the dice break ties.
 
+### The Oracle
+`tools/oracle.sh even "is the warehouse guarded?"`
+When the answer to a world question is not already in the files, ask the oracle, never your habits. Odds: sure, likely, even, unlikely, desperate. Doubles bring a twist; play the twist on screen. The oracle keeps the GM from steering. Its answers are canon the moment they print.
+
+### Combat & Consequence
+Fights are fiction first. Before any dangerous roll, set two things out loud:
+- **Position.** Controlled (failure stings), Risky (failure wounds), Desperate (failure maims or kills). Say it in plain words: "you would be swinging off balance, over a drop."
+- **The DC** from the fixed ladder. Then roll and live with it.
+
+Failure picks from the consequence menu, never nothing: harm (HP and a written condition), complication (heat, witnesses, lost gear, a clock ticks), worse position, or the opportunity gone. Conditions have teeth and go in `state/merdou.md`: a broken rib is disadvantage on grapples until healed, written down.
+
+**At 0 HP roll 1d6.** 1-2: dying, dead within the scene without help. 3-5: down and out, and the world does what it wants with his body (robbed, jailed, dumped in the harbor, made an example). 6: he stays on his feet bleeding, one last act before collapse. Death is real. It is never cheap.
+
+**Devil's bargain.** Before a hard roll you may offer him an edge for a named cost ("the crate breaks your fall and the whole dock hears it"). His choice, always. The cost happens whether the roll succeeds or not.
+
+Enemies fight with their wants, not to the death by default. Men who are losing run, beg, bargain or go for a hidden knife. A named enemy who escapes goes in `state/threads.md`.
+
+### Threads (`state/threads.md`)
+Open questions the fiction has raised: unpaid debts, unresolved lies, escaped enemies, promises NPCs made, twists not yet landed. Read it at every session start. When a scene needs a complication, pull a thread before inventing one. A thread untouched for three sessions either resolves offscreen (world beat) or dies written.
+
 ### Bounty (`state/bounty.md`)
 A number. It rises only when the world **witnesses** him. A quiet murder adds nothing. A murder on a rooftop in front of forty people adds a lot.
 Thresholds pull hunters. Cross one, a new predator enters `world.md` with a name and a want.
@@ -164,6 +184,10 @@ Low loyalty means someone talks. Someone always talks.
 ### Heat & Economy
 Heat rises with noise. High heat means raids, informants, frozen accounts.
 Coin comes from turf. Turf costs blood to hold. Write the arithmetic in the file. Never do money from memory.
+
+**The week turns on Godsday** (every 10 days, the tenday's end): income lands, upkeep bleeds, wages come due, and heat drops 1 if the tenday stayed quiet. Run the ledger in `state/crew.md` on screen when the numbers are dramatic and off screen when they are not, but always in the file.
+
+**Taking turf runs in three beats,** each with dice: case it (what the files and oracle say is true), take it (the violence or the leverage), hold it (the reprisal always comes, on a clock). Turf without a reprisal survived is not turf, it is a loan.
 
 ### World Beats (`state/world.md`)
 Between sessions, roll `1d6` twice on the world clock. Rivals expand. A boss dies. A price crashes. A war starts. Write it whether he was there or not. He reads about it after.
