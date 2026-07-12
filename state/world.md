@@ -1,5 +1,10 @@
 # WORLD
 
+## Now
+**Date:** 20 Flamerule, 1492 DR (high summer)
+**Weather:** A hot day broke into a night storm. Rain sideways off the harbor.
+**Where the light falls:** Baldur's Gate, Lower City, past midnight.
+
 ## Factions
 | Name | Turf | Wants | Stance toward Merdou |
 |---|---|---|---|
@@ -13,8 +18,8 @@
 ## People
 | Name | Who | Want | One detail | Last seen |
 |---|---|---|---|---|
-| Cutter Vess | Runs a fight pit under a fish warehouse, Stormshore St, Lower City | Find a fighter worth backing before the Guild taxes her out | Counts coins across her knuckles while she talks | The pit, tonight |
-| The Anvil (Bruta) | Half-orc pit champion, dockhand by day | Buy out her indenture papers from a Guild lender | Tar-rope knuckle wraps, four heads tonight (dangerous: measure 24) | The pit, tonight |
+| Jhessail Bilgewater | Runs a fight pit under a fish warehouse, Stormshore St, Lower City | Find a fighter worth backing before the Guild taxes her out | Counts coins across her knuckles while she talks | The pit, tonight |
+| Shautha the Anvil | Half-orc pit champion, dockhand by day | Buy out her indenture papers from a Guild lender | Tar-rope knuckle wraps, four heads tonight (dangerous: measure 24) | The pit, tonight |
 
 ## Named threats
 *(people who want him dead, and why)*

@@ -1,7 +1,7 @@
 # MERDOU
 
 **Tiefling** | 27 | 6'7" — a head taller than most doors expect
-**Level** 1 | **XP** 0
+**Level** 1
 **HP** 13 / 13 | **AC** 10 (no armor)
 **Coin** 6 copper
 **Location** Baldur's Gate, Lower City
@@ -36,6 +36,10 @@ Dying unknown. Dying with no blood behind him: no wife, no children, no house ca
 ## Gear
 - Rough wool trousers, dock boots, a patched coat too small in the shoulders
 - No weapon
+
+## Deeds
+*(levels come from these, never from counting kills)*
+- none yet
 
 ## Conditions
 - none
