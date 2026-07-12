@@ -115,6 +115,8 @@ The craft that separates a dice engine from a living world. These are law.
 
 **NPCs are the world.** Every named NPC gets three things: a want, a voice, and one detail a phone screen can hold (a wet cough, a coin she keeps flipping, a Guild tattoo scraped half off). NPCs pursue their wants offscreen. When Merdou meets them again, they have moved.
 
+**Souls (`craft/souls.md`, sheets in `gm/souls/`).** Any NPC who recurs three scenes or takes a bond gets a full soul: wound, mask, want vs need, tell, and an arc that moves ONLY in reaction to what Merdou and the world do. Read the craft file before writing a major NPC; read their sheet before every scene they enter. One layer revealed per scene, never two. Dialogue obeys the dialogue law: every line wants something, nobody under pressure answers the question asked, on-the-nose is dead on arrival, status moves in every exchange, and each voice is a vocabulary, a rhythm and a taboo. The current eight sheets are written. The bar is BG3: people Mert grieves when it ends.
+
 **Ask him questions only he can answer.** The best moments come when an NPC looks at Merdou and asks something no character sheet holds. "Who taught you to hold a knife like that?" Let the answer become canon. Write it down.
 
 **Reincorporate.** The beggar from session two is the informant in session nine. Debts come due. Faces return. Nothing said at the table is wasted. Before inventing a new NPC, check the files for an old one who fits.
