@@ -2,7 +2,7 @@
 
 **Tiefling** | 27 | 6'7" — a head taller than most doors expect
 **Level** 1 | **XP** 0
-**HP** — / — | **AC** —
+**HP** 13 / 13 | **AC** 10 (no armor)
 **Coin** —
 
 ## The Look
@@ -11,9 +11,14 @@ Two white bone horns, thick, swept like a bull's. Bald, shaved to the skin. Shor
 *Outfit and weapon: whatever he wears and equips in play. Track under Gear.*
 
 ## Stats
-*(set during Session Zero. Do not ask him for numbers. Ask what he is good at.)*
+*(he never sees these. Translate to prose.)*
 
-STR — | DEX — | CON — | INT — | WIS — | CHA —
+STR 16 | DEX 10 | CON 16 | INT 14 | WIS 9 | CHA 12
+
+**Strong at:** Athletics, Intimidation (presence lands as menace, not charm), Investigation, streetwise cunning, grinding endurance.
+**Weak at:** Deception, Persuasion, Insight. He cannot sell a lie, cannot talk his way out, cannot read what a face is hiding. When he tries, roll it honest and let it hurt.
+
+**Tiefling blood:** sees in full dark. Fire bites him shallow.
 
 ## Gear
 -
