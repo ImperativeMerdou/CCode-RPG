@@ -12,3 +12,6 @@
 2. *Gambler.* (Unlock: he wins her real money, or refuses a fix and wins anyway.) She starts betting ON him, secretly at first, then insultingly publicly.
 3. *Cornerman.* (Unlock: he protects the pit, or her, at real cost.) She tells him the truth about the tax, the door under the pit, and what the Guild really collects. First name basis. First person she's cornered for in twenty years.
 4. *The widow's choice.* (Crisis: Guild orders her to book his death.) She either warns him and burns her whole life, or reads the odds wrong on purpose a second time. Which way she goes depends entirely on stages 2-3.
+
+## Session notes
+- **21 Flamerule:** Best gate take in two years, one table broken, one champion untouched, one giant heel the whole dock is arguing about. Counted the take three times, smiled twice. Left word with Olma: she wants the Ox back, and she is already writing his next card in her head. His mouth cost him the room and made him easy to sell as a villain, which is cheaper to buy. Stock, not yet a gamble.

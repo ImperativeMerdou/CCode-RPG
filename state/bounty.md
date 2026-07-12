@@ -1,7 +1,7 @@
 # BOUNTY
 
-**Merdou** — 20
-*(21 Flamerule: brawl won, spectacular, ~100 witnesses at Bilgewater's pit: +20)*
+**Merdou** — 40
+*(21 Flamerule: brawl won, spectacular, ~100 witnesses at Bilgewater's pit: +20. The Baldur's Mouth printed it: act doubled, +20. The paper thinks his name is Malark Evenwood.)*
 
 Rises only when the world WITNESSES him. Quiet work adds nothing.
 
@@ -20,7 +20,7 @@ Rises only when the world WITNESSES him. Quiet work adds nothing.
 | Karlach Cliffgate | 200,000 | Escaped one of the Nine Hells with an infernal engine for a heart. Posted by Zariel's agents. |
 | Nine-Fingers Keene | 180,000 | Runs the Guild. Every crime in Baldur's Gate pays her rent. |
 | Astarion Ancunín | 90,000 | Vampire. Two hundred years of noble blood on his hands. |
-| **Merdou** | **20** | The big tiefling who threw the Brick over his head at Bilgewater's. |
+| **Merdou** | **40** | "Malark Evenwood, the Mad Ox": threw the Brick through three tables (it was one), slept to the Anvil's left. |
 
 ## Standing Marks (monsters and outlaws, proof of kill at any chartered gate)
 | Mark | Pays | Posted by | Proof |

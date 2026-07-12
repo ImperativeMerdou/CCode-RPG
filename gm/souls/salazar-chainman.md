@@ -12,3 +12,6 @@
 2. *The source.* (Unlock: Merdou feeds him something true that PRINTS true and doesn't get anyone hanged.) A working relationship: ink for information, both ways. His misprints start being strategic, steered, occasionally protective.
 3. *The old file.* (Unlock: Merdou's rise touches the same patriar dock-skim, still running, bigger.) Salazar opens the drawer with the spiked story. Offers it. The whole truth this time, or the useful lie: he makes MERDOU choose, because he never could.
 4. *The byline.* (Endgame.) When the Board and the papers decide what Merdou's legend says, Salazar writes the version history keeps. Whether it's the truth depends on whether anyone ever showed him truth surviving print.
+
+## Session notes
+- **21 Flamerule:** Sold the pit story to the Mouth by dawn; it moved copies. He knows "Malark Evenwood" is wrong (he invented it from a drunk's guess) and knows the follow-up needs the real name and the real face. He is hunting both. First story in a year his editor asked more of.

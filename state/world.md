@@ -1,9 +1,9 @@
 # WORLD
 
 ## Now
-**Date:** 21 Flamerule, 1495 DR, the small hours (high summer, three years after the Absolute crisis)
-**Weather:** Storm off the sea (d6=6). Rain sideways off the harbor, shutters banging, streets emptied.
-**Where the light falls:** Baldur's Gate, Lower City, the fight pit under the fish warehouse on Stormshore Street.
+**Date:** 21 Flamerule, 1495 DR, morning (high summer, three years after the Absolute crisis)
+**Weather:** The storm blew itself out before dawn. Wet bright streets, gulls loud, the harbor steaming in the sun.
+**Where the light falls:** Baldur's Gate, Lower City, Lureene's back room over the chandlery.
 
 ## Factions
 | Name | Turf | Wants | Stance toward Merdou |

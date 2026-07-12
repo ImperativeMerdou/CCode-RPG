@@ -6,7 +6,7 @@ Deeds with names. Each earned feat is permanent: it pays a rider (a lasting edge
 |---|---|---|---|
 | First Blood | Drop your first named threat | +10 bounty; the street learns your face | LOCKED |
 | The Fifth Head | Go the distance with the Anvil, win or lose | Respect in every pit on the coast | LOCKED |
-| Ink | Appear in a broadsheet for the first time | A public exists that believes in you | LOCKED |
+| Ink | Appear in a broadsheet for the first time | A public exists that believes in you | **EARNED, 21 Flamerule.** The Mouth printed the pit night; got the name, the species and the table count wrong |
 | One Warning | Defy the Guild openly and live a tenday | Independents start watching you | LOCKED |
 | Head Money | Redeem your first mark at a gate | Hunters' guild rates you; marks come easier | LOCKED |
 | The Long Road | Survive your first journey beyond the walls | One region's table holds no surprises for you again | LOCKED |
