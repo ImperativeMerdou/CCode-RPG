@@ -20,6 +20,9 @@ STR 16 | DEX 10 | CON 16 | INT 14 | WIS 9 | CHA 12
 
 **Tiefling blood:** sees in full dark. Fire bites him shallow.
 
+## The Want
+To be known, then to be worshipped. Merdou means to climb past man, past dragon, into godhood: a dragon god of war. The Realms already has dragon gods. It does not have his. Ruthless ambition. Strength above all. He wants it all, and "all" is not a figure of speech.
+
 ## Gear
 -
 
