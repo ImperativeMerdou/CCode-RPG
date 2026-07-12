@@ -1,0 +1,35 @@
+# SECRETS — the underside
+
+Never quoted until play reveals it. When a secret surfaces on screen, move it to the open files and strike it here.
+
+## THE MARK (the campaign's spine)
+Io, the Ninefold Dragon, overgod of all dragonkind, died in the dawn of things. Gods leave wills. Io's will is a single sentence in Draconic, nine words long, and it was never finished being spoken. The nine words survive as living script, each word written on the skin of one mortal bearer somewhere in the world. The word keeps its bearer's heart beating a little harder than it should. Scholars who suspect call them the Nine Quills.
+
+**Merdou's word is AZTHYR: HUNGER.** It sits between his shoulder blades where he cannot see it. It reads only mirrored, by firelight. It is why he was born wanting everything.
+
+**The rules of the Sentence (known in full to no one alive):**
+- A bearer who dies unworthy passes the word to the nearest skin ambitious enough to hold it. Merdou's arrived at his birth, off a Calishite galley slave who drowned in the harbor the same hour.
+- A bearer who takes another bearer's word (there is a way; it involves blood, fire and speaking the other's word aloud) keeps both. Each taken word is an Ascension tick, and it costs what Ascension costs.
+- One skin carrying all nine words completes the Sentence, and the Sentence, spoken complete, writes a new god. What kind of god depends on which word came first. Hunger-first builds a god of war and appetite.
+- Dragons can smell a gathering Sentence the way sharks smell blood. Klauth already stirs.
+
+**Other bearers seeded (develop as play demands):**
+- **VELKYN (THRONE)** — Klauth, "Old Snarl," ancient red of the North. A dragon bearing a word of Io. He knows what he carries. It is why he eats other dragons: he is looking for the rest of the Sentence in them, and he is wrong about where it lives.
+- **MERCY** — a patriar's third daughter in the Upper City, seventeen, word on her wrist under a bracelet. Does not know. Her house priest suspects and has written a letter he has not yet dared send.
+- **DEBT** — the word that walked into the Gate two years ago on a refugee from Elturel and has not surfaced since. The Scriveners' best lead. It is closer to Merdou than anyone guesses.
+
+## WHO KNOWS WHAT
+- **Zasheida Pashar** (the blind calligrapher, Undercellar) can read living script by touch. She has read two Quills in her life and told no one. What she wants: to read all nine before she dies, and she is dying slowly of the same gift. The reading is what took her eyes. She has already heard rumors of a tall tiefling with bull horns.
+- **The Scriveners** (third heresy of the Cult of the Dragon) know the Sentence exists and hold three words' locations wrong and one right. Their prophet, a defrocked Candlekeep sage called **Morn Greycastle**, believes the Sentence must complete in a DRAGON, and that mortal bearers are ink to be harvested. His people skin bearers and bind the skins into a book. The book does not work. He does not know why. (It must be living skin. Walking parchment. Merdou is the format the will requires.)
+- **Nine-Fingers Keene** knows nothing of the Sentence. She lost the finger to something she does not discuss. (It was a Scrivener knife, years ago, a case of mistaken identity. She hunted down and killed three of them without ever learning why they came. The Guild has a standing quiet-kill order on Cult ink-men in the Gate. Neither side remembers why anymore.)
+
+## LOCAL UNDERSIDE (the pit and the street)
+- Jhessail's pit sits on top of a bricked Undercellar door. The Guild's pit-tax is not about the fights, it is rent on the door. Jhessail does not know. Her late payments are climbing a ledger she cannot see.
+- Olma Threefinger reports to a lamplighter who reports to the Guild. She lost the fingers to a rat trap stealing bread at six, and she will lie about it forever. If anyone ever feeds her without asking questions, she will keep their secrets even from the lamplighter. Nobody has.
+- Khemed the Hook's brass abacus belonged to his father, collector before him, garrotted by the man Khemed now works for. Khemed knows. The Hook is patient.
+- Shautha's lender resells her indenture every time she nears paying it off. Her contract is currently worth more as a grudge than as paper. Tonight is her 200th fight under the collar.
+- Lureene Buckman rode with the Hellriders into Avernus in 1492. She stitches fighters because she promised a dying rider she would spend the rest of her life on the losing side. She has a devil's coin sewn into her sleeve she has never spent.
+
+## DOOM THAT WALKS (do not rush these)
+- The harbor drowned a galley slave the hour Merdou was born, and Umberlee keeps accounts. The Queen of the Deeps considers the word AZTHYR hers by salvage right. One day, on water, she will send someone to collect.
+- Tempus does not fear a Lower City tiefling. But Garagos, the flayed war god Tempus broke, dreams in his diminished heaven of a hungry young thing climbing, and diminished gods can love. There will come a night when Merdou's rage wins a fight it should have lost. That is Garagos, tithing to his own successor. The price arrives later.

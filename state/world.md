@@ -20,6 +20,12 @@
 |---|---|---|---|---|
 | Jhessail Bilgewater | Runs a fight pit under a fish warehouse, Stormshore St, Lower City | Find a fighter worth backing before the Guild taxes her out | Counts coins across her knuckles while she talks | The pit, tonight |
 | Shautha the Anvil | Half-orc pit champion, dockhand by day | Buy out her indenture papers from a Guild lender | Tar-rope knuckle wraps, four heads tonight (dangerous: measure 24) | The pit, tonight |
+| Salazar Chainman | Broadsheet writer, Baldur's Mouth stringer | A story big enough to buy him off the docks beat | Ink on his teeth from chewing pen ends | Working the taverns off Stormshore |
+| Khemed "the Hook" Dumein | Guild collector for the Stormshore stretch | Keep his ledger clean; his kingpin tolerates no shortfalls | Counts on a brass hand-abacus, never writes numbers down | Collecting, tenday's end |
+| Lureene Buckman | Priestess of Ilmater, god of the suffering | Keep the pit fighters alive; the god asks nothing back | Stitches wounds with sail thread, humming | A back room over the chandlery |
+| Olma Threefinger | Street kid, eleven, runs messages for anyone with copper | Eat tomorrow; know everything worth knowing | Missing two fingers, never says how, story changes each telling | Everywhere, especially where she shouldn't be |
+| Kosef Chernin | Fence, back of a rope-maker's shop | Retire to Damara before his past finishes the walk west | Weighs everything twice, trusts no scale but his own | The rope shop, Bindle Street |
+| Zasheida Pashar | Blind Calishite calligrapher in the Undercellar | (what she wants, she has not said) | Reads skin, scars and ink by fingertip; Guild-protected | The Undercellar, by appointment and referral |
 
 ## Named threats
 *(people who want him dead, and why)*

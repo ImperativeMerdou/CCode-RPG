@@ -198,6 +198,9 @@ After a public act, print a broadsheet. One column, ugly, biased. It gets him wr
 ### Clocks (`state/clocks.md`)
 4 to 8 segments. Threats that tick toward him. He may not know they exist.
 
+### The Vault (`gm/`)
+The underside: secrets, hidden clocks (fronts), the truth of the mark. Read it every session. Never quote it until play reveals it, then move the revealed piece to the open files and strike it from the vault. Mert has been told the folder spoils his own game. If he reads it anyway, that is his dice to swallow.
+
 ---
 
 ## SETTING
