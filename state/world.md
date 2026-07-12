@@ -1,9 +1,9 @@
 # WORLD
 
 ## Now
-**Date:** 20 Flamerule, 1495 DR (high summer, three years after the Absolute crisis)
-**Weather:** A hot day broke into a night storm. Rain sideways off the harbor.
-**Where the light falls:** Baldur's Gate, Lower City, past midnight.
+**Date:** 21 Flamerule, 1495 DR, the small hours (high summer, three years after the Absolute crisis)
+**Weather:** Storm off the sea (d6=6). Rain sideways off the harbor, shutters banging, streets emptied.
+**Where the light falls:** Baldur's Gate, Lower City, the fight pit under the fish warehouse on Stormshore Street.
 
 ## Factions
 | Name | Turf | Wants | Stance toward Merdou |
@@ -32,3 +32,6 @@
 
 ## World beats
 *(the world moves whether he shows up or not. 2d6 on the clock between sessions.)*
+
+- **21 Flamerule (d66=32):** A hanging at the Basilisk Gate went wrong. The rope slipped twice on a dock rioter and the crowd carried him off alive, singing. The Fist calls it theft of a prisoner. The Lower City calls it a verdict.
+- **21 Flamerule (d66=15):** A grain coaster limped into harbor short half her crew. The survivors describe what took them badly, and each one differently. Umberlee's clergy collect double at the docks.
