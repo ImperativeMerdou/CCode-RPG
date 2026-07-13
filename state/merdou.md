@@ -2,9 +2,9 @@
 
 **Tiefling** | 27 | 6'7" — a head taller than most doors expect
 **Level** 1
-**HP** 2 / 13 | **AC** 10 (no armor) | **Fire** 1/3
+**HP** 10 / 13 | **AC** 10 (no armor) | **Fire** 1/3
 *(Fire earned 21 Flamerule: the contempt came out of his mouth mid-fight, the crowd's love died, and the Anvil went cold and put him one hit from the dark)*
-**Coin** 1 silver, 1 copper (5 sp paid to Brottor Fireforge for the club, 26 Flamerule)
+**Coin** 7 silver, 1 copper (card two winner's cut: +6 sp, 30 Flamerule)
 **Location** Baldur's Gate, Lower City, Lureene's back room over the chandlery
 **Tongues** Common, Infernal. He cannot read Draconic. The mark on his back is written in it.
 
@@ -54,6 +54,7 @@ Observation 0 | Armament 0 | Conqueror's: untested
 *(levels come from these, never from counting kills)*
 - **21 Flamerule 1495:** First pit night at Bilgewater's. Broke Keth the Brick's rib bare-handed, took his headbutt, answered with a suplex through the tout's trestle. Feat: First Rung.
 - **25 Flamerule 1495:** Card one. Slammed the greased Eel into the sand hard enough to shake the lamps, took sand in the eyes and a haymaker, and knocked Sergor Gullfeed out BLIND, swinging at the sound of his grin. Won standing with two breaths left.
+- **30 Flamerule 1495:** Card two, the rematch. Blitzed Keth at the bell, beat the nine-day plan out of him before it left his pocket, and put him down clean. The glass glued in Keth's wraps hit the sand where the whole cellar could see it. Both cards won: the ANVIL is chalked for Midsummer eve.
 
 ## Conditions
 - none. *(Bell-rung skull healed: four quiet days, Lureene's care, 22-25 Flamerule.)*
