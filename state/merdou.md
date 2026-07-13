@@ -2,7 +2,7 @@
 
 **Tiefling** | 27 | 6'7" — a head taller than most doors expect
 **Level** 1
-**HP** 4 / 13 | **AC** 10 (no armor) | **Fire** 1/3
+**HP** 11 / 13 | **AC** 10 (no armor) | **Fire** 1/3
 *(Fire earned 21 Flamerule: the contempt came out of his mouth mid-fight, the crowd's love died, and the Anvil went cold and put him one hit from the dark)*
 **Coin** 1 copper (2 paid to Olma, 4 lifted from his pocket while he slept, 1 returned by Olma at "loser's rate")
 **Location** Baldur's Gate, Lower City, Lureene's back room over the chandlery
@@ -48,7 +48,7 @@ Observation 0 | Armament 0 | Conqueror's: untested
 - **21 Flamerule 1495:** First pit night at Bilgewater's. Broke Keth the Brick's rib bare-handed, took his headbutt, answered with a suplex through the tout's trestle. Feat: First Rung.
 
 ## Conditions
-- **Bell-rung skull** (the Anvil's left, 21 Flamerule): the world tilts when he turns his head fast. Quick reactions suffer until a quiet tenday or paid healing.
+- none. *(Bell-rung skull healed: four quiet days, Lureene's care, 22-25 Flamerule.)*
 
 ## Scars
 *(permanent. Each one is a story the body tells for free.)*
