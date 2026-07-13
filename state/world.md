@@ -1,9 +1,9 @@
 # WORLD
 
 ## Now
-**Date:** 30 Flamerule, 1495 DR, Godsday night (Midsummer is tomorrow)
-**Weather:** Rain in earnest (d6=5). Torches drown, footsteps too.
-**Where the light falls:** Bilgewater's pit, card two: MERDOU vs THE BRICK, the rematch. The Hook collects tonight.
+**Date:** Midsummer, 1495 DR, dawn (the festival day between Flamerule and Eleasis)
+**Weather:** roll at session start
+**Where the light falls:** the pit's back room, the club by the cot. Tonight: MERDOU vs THE ANVIL, main event, fifty suns over the card. His day-before choice is still open: sleep like a weapon, walk the festival, or buy the Eel's read on her.
 
 ## Factions
 | Name | Turf | Wants | Stance toward Merdou |
