@@ -25,6 +25,7 @@
 | Lureene Buckman | Priestess of Ilmater, god of the suffering | Keep the pit fighters alive; the god asks nothing back | Stitches wounds with sail thread, humming | A back room over the chandlery |
 | Olma Threefinger | Street kid, eleven, runs messages for anyone with copper | Eat tomorrow; know everything worth knowing | Missing two fingers, never says how, story changes each telling | The pit, tonight: talked herself into Merdou's corner for two coppers |
 | Kosef Chernin | Fence, back of a rope-maker's shop | Retire to Damara before his past finishes the walk west | Weighs everything twice, trusts no scale but his own | The rope shop, Bindle Street |
+| Sergor "the Eel" Gullfeed | Beloved pit showman, dockhand, fights greased | Stay loved; never take a fight he can't make a show of | Grins wider the worse things get | Carried out of card one grinning, buying the Ox's legend drinks |
 | Zasheida Pashar | Blind Calishite calligrapher in the Undercellar | (what she wants, she has not said) | Reads skin, scars and ink by fingertip; Guild-protected | The Undercellar, by appointment and referral |
 
 ## Named threats

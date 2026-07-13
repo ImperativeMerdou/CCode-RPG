@@ -2,9 +2,9 @@
 
 **Tiefling** | 27 | 6'7" — a head taller than most doors expect
 **Level** 1
-**HP** 8 / 13 | **AC** 10 (no armor) | **Fire** 1/3
+**HP** 2 / 13 | **AC** 10 (no armor) | **Fire** 1/3
 *(Fire earned 21 Flamerule: the contempt came out of his mouth mid-fight, the crowd's love died, and the Anvil went cold and put him one hit from the dark)*
-**Coin** 1 copper (2 paid to Olma, 4 lifted from his pocket while he slept, 1 returned by Olma at "loser's rate")
+**Coin** 6 silver, 1 copper (card one winner's cut: 6 sp of the 10 sp purse)
 **Location** Baldur's Gate, Lower City, Lureene's back room over the chandlery
 **Tongues** Common, Infernal. He cannot read Draconic. The mark on his back is written in it.
 
@@ -46,6 +46,7 @@ Observation 0 | Armament 0 | Conqueror's: untested
 ## Deeds
 *(levels come from these, never from counting kills)*
 - **21 Flamerule 1495:** First pit night at Bilgewater's. Broke Keth the Brick's rib bare-handed, took his headbutt, answered with a suplex through the tout's trestle. Feat: First Rung.
+- **25 Flamerule 1495:** Card one. Slammed the greased Eel into the sand hard enough to shake the lamps, took sand in the eyes and a haymaker, and knocked Sergor Gullfeed out BLIND, swinging at the sound of his grin. Won standing with two breaths left.
 
 ## Conditions
 - none. *(Bell-rung skull healed: four quiet days, Lureene's care, 22-25 Flamerule.)*

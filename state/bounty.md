@@ -1,7 +1,7 @@
 # BOUNTY
 
-**Merdou** — 40
-*(21 Flamerule: brawl won, spectacular, ~100 witnesses at Bilgewater's pit: +20. The Baldur's Mouth printed it: act doubled, +20. The paper thinks his name is Malark Evenwood.)*
+**Merdou** — 80
+*(21 Flamerule: brawl won, spectacular, ~100 witnesses: +20, doubled by the Mouth: 40. 25 Flamerule: card one won blind before a double house: +20, doubled by the Mouth again: 80.)*
 
 Rises only when the world WITNESSES him. Quiet work adds nothing.
 
@@ -20,7 +20,7 @@ Rises only when the world WITNESSES him. Quiet work adds nothing.
 | Karlach Cliffgate | 200,000 | Escaped one of the Nine Hells with an infernal engine for a heart. Posted by Zariel's agents. |
 | Nine-Fingers Keene | 180,000 | Runs the Guild. Every crime in Baldur's Gate pays her rent. |
 | Astarion Ancunín | 90,000 | Vampire. Two hundred years of noble blood on his hands. |
-| **Merdou** | **40** | "Malark Evenwood, the Mad Ox": threw the Brick through three tables (it was one), slept to the Anvil's left. |
+| **Merdou** | **80** | MERDOU, the Mad Ox of Stormshore: suplexed the Brick, knocked out the Eel stone blind. Fights the Anvil at Midsummer if he lives. |
 
 ## Standing Marks (monsters and outlaws, proof of kill at any chartered gate)
 | Mark | Pays | Posted by | Proof |
