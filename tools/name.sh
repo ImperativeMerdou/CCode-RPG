@@ -75,7 +75,12 @@ list_banks() {
 
 if [[ "$CULTURE" == "--list" || -z "$CULTURE" ]]; then list_banks; exit 0; fi
 
-for ((i=0; i<COUNT; i++)); do
+case "$CULTURE" in
+  chondathan|illuskan|calishite|damaran|rashemi|turami|dwarf|elf|halfling|orc|tiefling|baldurian|virtue|epithet) ;;
+  *) echo "unknown bank: $CULTURE"; list_banks; exit 1 ;;
+esac
+
+gen_one() {
   case "$CULTURE" in
     chondathan|illuskan|calishite|damaran|rashemi|turami)
       first=$(pick "${CULTURE}_${SEX}"); sur=$(pick "${CULTURE}_s")
@@ -92,6 +97,20 @@ for ((i=0; i<COUNT; i++)); do
       echo "$first $sur" ;;
     virtue) pick virtue_x ;;
     epithet) echo "the $(pick epithet_x)" ;;
-    *) echo "unknown bank: $CULTURE"; list_banks; exit 1 ;;
   esac
+}
+
+# Multi-option pulls give distinct names or the "three options" law is a lie.
+seen=$'\n'
+emitted=0
+attempts=0
+while (( emitted < COUNT )); do
+  attempts=$((attempts+1))
+  n="$(gen_one)"
+  if [[ "$seen" == *$'\n'"$n"$'\n'* ]] && (( attempts < COUNT * 25 )); then
+    continue
+  fi
+  seen+="$n"$'\n'
+  emitted=$((emitted+1))
+  echo "$n"
 done

@@ -10,8 +10,9 @@ Say what Merdou does, in your own words. That's it.
 
 ## What the GM owes you, every time
 - **Your odds in plain words before you commit.** "That jump has killed sober men" means it's bad. Then you decide.
-- **Your own dice, shown.** You'll see the roll and the target. No fudging, ever, either direction.
-- **Levers at scene's end.** Two or three ideas. They're suggestions. Anything you invent is always legal.
+- **Honest dice, spoken like a person.** Every roll happens in the tools and is saved to the files, so nothing can be fudged, but the story never shows you numbers. You hear "you made it, barely," never "17 versus 15."
+- **Three choices at scene's end.** Each one tells you the move, how risky it stands, and what's at stake. They're suggestions. Anything you invent is always legal.
+- **A world you can follow.** New names and places get explained in the story itself, in plain words. The one-page world guide is `lore/primer.md` whenever you want it.
 
 ## Words that do things
 - **start session** — boots the world, rolls what moved while you were gone, recaps in three lines

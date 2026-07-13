@@ -1,9 +1,9 @@
 # WORLD
 
 ## Now
-**Date:** 20 Flamerule, 1495 DR (high summer, three years after the Absolute crisis)
-**Weather:** A hot day broke into a night storm. Rain sideways off the harbor.
-**Where the light falls:** Baldur's Gate, Lower City, past midnight.
+**Date:** Midsummer, 1495 DR, dawn (the festival day between Flamerule and Eleasis)
+**Weather:** roll at session start
+**Where the light falls:** the pit's back room, the club by the cot. Tonight: MERDOU vs THE ANVIL, main event, fifty suns over the card. His day-before choice is still open: sleep like a weapon, walk the festival, or buy the Eel's read on her.
 
 ## Factions
 | Name | Turf | Wants | Stance toward Merdou |
@@ -23,8 +23,9 @@
 | Salazar Chainman | Broadsheet writer, Baldur's Mouth stringer | A story big enough to buy him off the docks beat | Ink on his teeth from chewing pen ends | Working the taverns off Stormshore |
 | Khemed "the Hook" Dumein | Guild collector for the Stormshore stretch | Keep his ledger clean; his kingpin tolerates no shortfalls | Counts on a brass hand-abacus, never writes numbers down | Collecting, tenday's end |
 | Lureene Buckman | Priestess of Ilmater, god of the suffering | Keep the pit fighters alive; the god asks nothing back | Stitches wounds with sail thread, humming | A back room over the chandlery |
-| Olma Threefinger | Street kid, eleven, runs messages for anyone with copper | Eat tomorrow; know everything worth knowing | Missing two fingers, never says how, story changes each telling | Everywhere, especially where she shouldn't be |
+| Olma Threefinger | Street kid, eleven, runs messages for anyone with copper | Eat tomorrow; know everything worth knowing | Missing two fingers, never says how, story changes each telling | The pit, tonight: talked herself into Merdou's corner for two coppers |
 | Kosef Chernin | Fence, back of a rope-maker's shop | Retire to Damara before his past finishes the walk west | Weighs everything twice, trusts no scale but his own | The rope shop, Bindle Street |
+| Sergor "the Eel" Gullfeed | Beloved pit showman, dockhand, fights greased | Stay loved; never take a fight he can't make a show of | Grins wider the worse things get | Carried out of card one grinning, buying the Ox's legend drinks |
 | Zasheida Pashar | Blind Calishite calligrapher in the Undercellar | (what she wants, she has not said) | Reads skin, scars and ink by fingertip; Guild-protected | The Undercellar, by appointment and referral |
 
 ## Named threats
@@ -32,3 +33,8 @@
 
 ## World beats
 *(the world moves whether he shows up or not. 2d6 on the clock between sessions.)*
+
+- **21 Flamerule (d66=32):** A hanging at the Basilisk Gate went wrong. The rope slipped twice on a dock rioter and the crowd carried him off alive, singing. The Fist calls it theft of a prisoner. The Lower City calls it a verdict.
+- **21 Flamerule (d66=15):** A grain coaster limped into harbor short half her crew. The survivors describe what took them badly, and each one differently. Umberlee's clergy collect double at the docks.
+- **22-25 Flamerule (d66=26):** Press gangs work the docks. Fist wagons take strong backs at night for something north, no questions answered. Big men walk in groups now or not at all.
+- **26-29 Flamerule (d66=24):** The Watch closes the Upper City gates for a patriar funeral. Commerce snarls for two days; carts back up through the Lower City and everyone's temper rides on the axles.

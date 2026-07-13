@@ -5,8 +5,10 @@ Every rung of the climb has a name on it already. Rivals move every session, on 
 ## The ladder as it stands
 | Rung | Name | What they are | The score |
 |---|---|---|---|
-| The pit | **Keth "the Brick"** | Orc, nineteen, wins ugly and cheap, wants the Midsummer purse and the Anvil's crown. Merdou's size offends him personally. | 0 - 0 |
-| The street | **Grim Dundragon** | Elturel refugee, runs the Hellriders' Orphans rackets in the Outer City. Climbing the same mountain as Merdou, two rungs ahead, with a crew already sworn. Cold where Merdou burns. | he's ahead |
+| The pit | **Keth "the Brick"** | Orc, nineteen, tough tier. WAS a pit fighter; now a disgrace with a grudge. | **Merdou 2 - 0.** Godsday: blitzed before his glass-wrap trick fired; the glass hit the sand in front of the whole cellar. Jhessail banned him from her chalk forever. His pit life is dead and Merdou killed it twice. Watch the streets. |
+| The street | **Grim Dundragon** | Elturel refugee, runs the Hellriders' Orphans rackets in the Outer City. Climbing the same mountain as Merdou, two rungs ahead, with a crew already sworn. Cold where Merdou burns. | he's ahead, and bleeding |
+
+**Session 1 move (d8=4, BLED):** A storm-night warehouse job went wrong on Grim Dundragon. The Fist took one of his sworn men and the river took the goods. He is meaner for it, and he is asking who talked.
 | The chain | **Umbero "the Sexton" Ramondo** | The Guild kingpin who owns Stormshore's stretch, Jhessail's tax, Shautha's paper and Khemed's leash. Buries problems personally, hence the name. | he doesn't know Merdou exists |
 | The hunt | **Amafrey "the Bonesaw" Helder** | Licensed bounty hunter, Illuskan, works the coast with a surgeon's kit for proofs. Incorruptible, professional, patient. | activates at bounty 500 |
 | The Board | The six names above him | See state/bounty.md | 600,000 gold of distance |

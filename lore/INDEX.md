@@ -8,6 +8,11 @@ The Realms as published, not as half-remembered. Grep this before naming anythin
 - `legends.md` — the named players alive in 1495 DR, with bounty-board context
 - `gods-and-dragons.md` — the pantheon, the dragon gods, and the ascension precedents
 - `factions.md` — who runs what, current stance, how they touch a Lower City climber
+- `power.md` — Haki (the three branches and their advanced forms) and the ladder of monsters
+- `street-life.md` — the texture of the Lower City: work, food, slang, survival
+- `the-wild.md` — the roads and regions beyond the walls, journey rules
+- `calendar.md` — tendays, festivals, holy days, what Midsummer means
+- `primer.md` — the player's one-page world guide (LOTR and BG3 anchors, out-of-game)
 
 **Canon boundary:** published material runs through 1492 DR (the Absolute crisis).
 Everything after is table canon: our extrapolation, marked in these files where it matters. Once written here, it is true.

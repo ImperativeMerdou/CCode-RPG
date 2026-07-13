@@ -2,9 +2,10 @@
 
 **Tiefling** | 27 | 6'7" — a head taller than most doors expect
 **Level** 1
-**HP** 13 / 13 | **AC** 10 (no armor) | **Fire** 0/3
-**Coin** 6 copper
-**Location** Baldur's Gate, Lower City
+**HP** 10 / 13 | **AC** 10 (no armor) | **Fire** 1/3
+*(Fire earned 21 Flamerule: the contempt came out of his mouth mid-fight, the crowd's love died, and the Anvil went cold and put him one hit from the dark)*
+**Coin** 7 silver, 1 copper (card two winner's cut: +6 sp, 30 Flamerule)
+**Location** Baldur's Gate, Lower City, Lureene's back room over the chandlery
 **Tongues** Common, Infernal. He cannot read Draconic. The mark on his back is written in it.
 
 ## The Look
@@ -31,27 +32,36 @@ Meticulous. Plans like a clerk, kills like a fire. Ruthless by policy, explosive
 ## The Line
 Two things break the leash: **his blood** and **his word**. Any family he builds is off the board; touch it and Baldur's Gate learns what a war god's whelp does. And if he gives his word, it holds. Forcing him to break it is a death sentence he delivers personally.
 
+## Blood
+*(the Line. Spoken aloud to Salazar Chainman, 25 Flamerule, over ale and ink. OFF THE PAGE by the trade.)*
+- **Aslan** — little brother, 18. Blond, blue-eyed, beautiful, theatrical, a prince out of a stage play. The infernal blood took Merdou and left Aslan untouched. Last word: he runs his own crew now, adventuring, questing, slaying bandits. One rumor of him reached Merdou in seven years.
+- **Melissa and Metehan** — the twins, 23. Both born with an affinity for magic. Melissa: the truer mage. Metehan: built like Merdou but wider and a little fat, a spellsword, blade in one hand and a spell in the other.
+- **Merdou, the eldest** — the rebel. The one who ate every gutter, every den, every addiction and every destruction the world had on the menu, and walked out the other side with horns and a heartbeat.
+- **Seven years** since he saw any of them. He does not know where they are.
+
 ## The Fear
 Dying unknown. Dying with no blood behind him: no wife, no children, no house carrying the name. Dying slow and filthy of disease, the death that strength cannot fight. He means to sire children, plural, a dynasty. And under all of it: never owned, never weak. He would rather die badly than kneel long.
 
 ## Gear
 - Rough wool trousers, dock boots, a patched coat too small in the shoulders
-- No weapon
+- **The club** (unnamed yet; the street will name it): a spiked iron club forged by Brottor Fireforge from the anchor shank of the grain coaster that limped in half-crewed on 21 Flamerule. Four fingers thick, iron rivet-spikes down the head, a grip wrapped in tar rope. Too heavy for most men to swing twice. Merdou drills with it daily; it swings like it was waiting for him. Two-handed, brutal, mundane and honest.
 
-## The Weight
+## Haki
 *(see lore/power.md. Stages rise through masters and trials only.)*
-Listening 0 | Set 0 | Crown: untested
+Observation 0 | Armament 0 | Conqueror's: untested
 
 ## Deeds
 *(levels come from these, never from counting kills)*
-- none yet
+- **21 Flamerule 1495:** First pit night at Bilgewater's. Broke Keth the Brick's rib bare-handed, took his headbutt, answered with a suplex through the tout's trestle. Feat: First Rung.
+- **25 Flamerule 1495:** Card one. Slammed the greased Eel into the sand hard enough to shake the lamps, took sand in the eyes and a haymaker, and knocked Sergor Gullfeed out BLIND, swinging at the sound of his grin. Won standing with two breaths left.
+- **30 Flamerule 1495:** Card two, the rematch. Blitzed Keth at the bell, beat the nine-day plan out of him before it left his pocket, and put him down clean. The glass glued in Keth's wraps hit the sand where the whole cellar could see it. Both cards won: the ANVIL is chalked for Midsummer eve.
 
 ## Conditions
-- none
+- none. *(Bell-rung skull healed: four quiet days, Lureene's care, 22-25 Flamerule.)*
 
 ## Scars
 *(permanent. Each one is a story the body tells for free.)*
-- none yet
+- **Left brow, split and stitched** (Keth's headbutt, sewn by Ilmater's needle, 21 Flamerule). First pit night. The stitch-line will hold the story.
 
 ## Marks
 - One Draconic Prophecy mark. Location unknown to him. Meaning unknown to him.

@@ -14,3 +14,6 @@
 4. *Anvil breaks or forges.* (Crisis: the Collar Market clock fills; she's ordered to kill in the pit.) With stage 2+: she refuses and takes what comes, if someone stands with her. Without: she does it, and whatever she was ends that night.
 
 **Combat note:** killer tier (+6). Southpaw. Drops her right shoulder before the hook that has ended forty fights; a fighter who survives round one might read it (Investigation, hard).
+
+## Session notes
+- **21 Flamerule:** The big tiefling opened the bout with woman-slurs in front of the whole pit. They slid off; number 211 of 211. She answered by going to work: one liver shot, him one hit from done. Filed him as "mouth first, hands second" and stopped performing. The stage 2 respect unlock (going the distance WITHOUT cheap tricks) now needs him to climb out of the hole his own mouth dug: the words were a cheap trick, and she counts them.

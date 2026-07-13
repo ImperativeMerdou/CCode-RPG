@@ -1,6 +1,7 @@
 # BOUNTY
 
-**Merdou** — 0
+**Merdou** — 120
+*(21 Flamerule: brawl won, spectacular: +20, doubled by print: 40. 25 Flamerule: blind knockout, double house: +20, doubled: 80. 30 Flamerule: rematch won clean before the fattest gate of the season, cheater exposed: +20, doubled by the exclusive: 120.)*
 
 Rises only when the world WITNESSES him. Quiet work adds nothing.
 
@@ -19,7 +20,7 @@ Rises only when the world WITNESSES him. Quiet work adds nothing.
 | Karlach Cliffgate | 200,000 | Escaped one of the Nine Hells with an infernal engine for a heart. Posted by Zariel's agents. |
 | Nine-Fingers Keene | 180,000 | Runs the Guild. Every crime in Baldur's Gate pays her rent. |
 | Astarion Ancunín | 90,000 | Vampire. Two hundred years of noble blood on his hands. |
-| **Merdou** | **0** | Nothing. Nobody. Not yet. |
+| **Merdou** | **120** | MERDOU, the Mad Ox of Stormshore: suplexed the Brick, blinded-KO'd the Eel, broke the Brick again and shook the glass out of his wraps. Fights the Anvil at Midsummer. |
 
 ## Standing Marks (monsters and outlaws, proof of kill at any chartered gate)
 | Mark | Pays | Posted by | Proof |
