@@ -5,7 +5,8 @@ Deferred outcomes with due dates. Different from clocks (which tick on acts): th
 | Due | What happens | Unless | Born |
 |---|---|---|---|
 | ~~25 Flamerule~~ FIRED | ~~Card one~~ Won: blind knockout of the Eel before a double house | — | Session 1 |
-| 30 Flamerule (Godsday) | Khemed the Hook collects Jhessail's pit tax in person | someone pays 12 gp or changes his math | Session 1 |
-| 30 Flamerule (Godsday) | Card two: Merdou's second fight, same night the Hook comes collecting | — | Session 1 |
-| 30 Flamerule (Godsday) | The Mouth prints Salazar's interview piece: the ruin-and-rise of the Ox, fists and sand, NO family (the trade holds) | — | Session 1 |
+| ~~30 Flamerule~~ FIRED | ~~Tax collection~~ Paid in full, on time, in front of the Hook's abacus | — | Session 1 |
+| ~~30 Flamerule~~ FIRED | ~~Card two~~ Won clean; Keth's glass wraps exposed; the deal complete | — | Session 1 |
+| ~~30 Flamerule~~ FIRED | ~~The exclusive~~ Printed Godsday morning: "The Ruin and the Rise of the Ox," no family in it | — | Session 1 |
+| Midsummer eve (tomorrow) | MERDOU vs THE ANVIL, main event of the Midsummer tournament, fifty suns over the card | — | Session 1 |
 | Midsummer eve | Ale prices peak; every dry storehouse in the Lower City is either full or robbed | — | Session 1 (market) |
