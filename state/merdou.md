@@ -32,6 +32,12 @@ Meticulous. Plans like a clerk, kills like a fire. Ruthless by policy, explosive
 ## The Line
 Two things break the leash: **his blood** and **his word**. Any family he builds is off the board; touch it and Baldur's Gate learns what a war god's whelp does. And if he gives his word, it holds. Forcing him to break it is a death sentence he delivers personally.
 
+## Blood
+*(the Line. Spoken aloud to Salazar Chainman, 25 Flamerule, over ale and ink.)*
+- **Aslan** — little brother, 18. Blond, blue-eyed, beautiful, theatrical, a prince out of a stage play. The infernal blood took Merdou and left Aslan untouched, and Merdou has never once resented him for it.
+- **Melissa and Metehan** — the twins, 23. Between the prince and the ruin in age and in everything else.
+- **Merdou, the eldest** — the rebel. The one who ate every gutter, every den, every addiction and every destruction the world had on the menu, and walked out the other side with horns and a heartbeat. Their whereabouts: not yet said aloud.
+
 ## The Fear
 Dying unknown. Dying with no blood behind him: no wife, no children, no house carrying the name. Dying slow and filthy of disease, the death that strength cannot fight. He means to sire children, plural, a dynasty. And under all of it: never owned, never weak. He would rather die badly than kneel long.
 
