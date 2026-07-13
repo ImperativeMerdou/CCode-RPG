@@ -2,7 +2,7 @@
 
 **Tiefling** | 27 | 6'7" — a head taller than most doors expect
 **Level** 1
-**HP** 11 / 13 | **AC** 10 (no armor) | **Fire** 1/3
+**HP** 8 / 13 | **AC** 10 (no armor) | **Fire** 1/3
 *(Fire earned 21 Flamerule: the contempt came out of his mouth mid-fight, the crowd's love died, and the Anvil went cold and put him one hit from the dark)*
 **Coin** 1 copper (2 paid to Olma, 4 lifted from his pocket while he slept, 1 returned by Olma at "loser's rate")
 **Location** Baldur's Gate, Lower City, Lureene's back room over the chandlery

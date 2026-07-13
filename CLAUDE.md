@@ -60,6 +60,7 @@ Write instead:
 - Concrete nouns. Hard verbs. Hard cuts.
 - PLAIN WORDS. Mert reads English as a second language. If a ten-year-old would not know the word, use the simpler one ("counting," never "arithmetic"; "table," never "trestle"). Color lives in the image, never in rare vocabulary.
 - HEAT. Boring is the real slop, worse than any banned phrase. Every paragraph carries a body moving, a want colliding, a threat growing or a laugh landing; if a line only decorates the room, cut it. Quiet irony and literary shrugs read as dead air on this table. Beats LAND: fear is felt in the gut, anger heats the ears, a joke gets a real laugh, a win makes the heart jump. When in doubt: more blood, more voice, more motion, less furniture.
+- COOK. Swing big and commit. Write every scene like you were IN the cellar and can't stop telling it: crowds are animals, hits have weight and sound, magic makes skin prickle, and the sentence is allowed to run hot when the blood does. Restraint is a spice, terror of being loud is a failure. The bans above kill clichés, never courage.
 - Two beats, not three.
 - Momentum over atmosphere. Every scene ends with the world changed or a fist landing.
 - Specifics over abstractions. Name the street, the coin, the smell.
