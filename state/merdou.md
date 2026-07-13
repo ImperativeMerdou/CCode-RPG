@@ -4,7 +4,7 @@
 **Level** 1
 **HP** 2 / 13 | **AC** 10 (no armor) | **Fire** 1/3
 *(Fire earned 21 Flamerule: the contempt came out of his mouth mid-fight, the crowd's love died, and the Anvil went cold and put him one hit from the dark)*
-**Coin** 6 silver, 1 copper (card one winner's cut: 6 sp of the 10 sp purse)
+**Coin** 1 silver, 1 copper (5 sp paid to Brottor Fireforge for the club, 26 Flamerule)
 **Location** Baldur's Gate, Lower City, Lureene's back room over the chandlery
 **Tongues** Common, Infernal. He cannot read Draconic. The mark on his back is written in it.
 
@@ -44,7 +44,7 @@ Dying unknown. Dying with no blood behind him: no wife, no children, no house ca
 
 ## Gear
 - Rough wool trousers, dock boots, a patched coat too small in the shoulders
-- No weapon
+- **The club** (unnamed yet; the street will name it): a spiked iron club forged by Brottor Fireforge from the anchor shank of the grain coaster that limped in half-crewed on 21 Flamerule. Four fingers thick, iron rivet-spikes down the head, a grip wrapped in tar rope. Too heavy for most men to swing twice. Merdou drills with it daily; it swings like it was waiting for him. Two-handed, brutal, mundane and honest.
 
 ## Haki
 *(see lore/power.md. Stages rise through masters and trials only.)*
